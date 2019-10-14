@@ -16,8 +16,6 @@
 
   * The greatest decrease in losses (date and amount) over the entire period
 
-  ```
-
 
 
 ## Project-2: PyPoll
