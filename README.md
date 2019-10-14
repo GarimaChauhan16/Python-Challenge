@@ -22,7 +22,7 @@
 
 ![Vote-Counting](Images/Vote_counting.png)
 
-* In this project task is to help a small, rural town modernize its vote-counting process with the help of a python script.The dataset given is of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. The task is to create a Python script that analyzes the votes and calculates each of the following:
+* In this project task is to help a small, rural town modernize its vote-counting process with the help of a python script. The dataset given is of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. The task is to create a Python script that analyzes the votes and calculates each of the following:
 
   * The total number of votes cast
 
